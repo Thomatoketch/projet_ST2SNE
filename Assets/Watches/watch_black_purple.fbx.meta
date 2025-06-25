@@ -3,7 +3,107 @@ guid: 868999fc6f6b4434582baff8cbf633bf
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric01
+    second: {fileID: 2100000, guid: 20672dad3181ec545b641df8f6ab11ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soft_Leather_skin
+    second: {fileID: 2100000, guid: ab9c33133b8d65447b597a707b81d813, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carbon fiber 2024
+    second: {fileID: 2100000, guid: 4aef7c3d770bc704895f652a2ff70b98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome
+    second: {fileID: 2100000, guid: 9fe826ae320c4a44281f69b619c96841, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dark_glass
+    second: {fileID: 2100000, guid: 25a5d1b2d9062f143b5a5accf0dae250, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_material
+    second: {fileID: 2100000, guid: fc19ff5c74a76ac43af6ba8bd30ab616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mother of pearl carpaint
+    second: {fileID: 2100000, guid: 04d6f7d576878154fb0e2a80879c3b6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: purple metallic carpaint
+    second: {fileID: 2100000, guid: f281ef5c09f51c543bada221ed071b74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: smooth brass
+    second: {fileID: 2100000, guid: daabf46a0506afd4dba41d57179e7f4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: solid white carpaint
+    second: {fileID: 2100000, guid: 6dc08adabd0b79f4ea40fe785ba7be72, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric01_bump
+    second: {fileID: 2800000, guid: e85b3514c5ed13a4bb42eee00318893d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric01_diffuse
+    second: {fileID: 2800000, guid: b8a520b1d304d774487658ff12e23f11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric01_specular
+    second: {fileID: 2800000, guid: ccb9913cc83681a46bec21f38114f086, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Soft_Leather_skin_bump
+    second: {fileID: 2800000, guid: cc1b0355832a7774ca5d4cc28d51ea23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: carbon fiber 2024_l0_diffuse
+    second: {fileID: 2800000, guid: 1bb21c80bb857cd4eadb4f63d87bd51c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: carbon fiber 2024_l1_bump
+    second: {fileID: 2800000, guid: 454a130255ab352498c92c274f269e6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: carbon fiber 2024_l1_specular
+    second: {fileID: 2800000, guid: 054dc6f4652555e49bfd23e5563c6aca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mother of pearl carpaint_l1_bump
+    second: {fileID: 2800000, guid: 5d83cdd0c177ca0419f7a83de2a0eafb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mother of pearl carpaint_l1_specular
+    second: {fileID: 2800000, guid: f70a9f980d38559468d90bef1ccc89d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: smooth brass_bump
+    second: {fileID: 2800000, guid: 0ca8461d328b45542b6f37d9c51a0a5c, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

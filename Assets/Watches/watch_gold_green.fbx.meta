@@ -3,7 +3,102 @@ guid: 0b30df21d595a6f4c8f425387276ccd0
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric01
+    second: {fileID: 2100000, guid: 7d77bb8d5e0874548bf0ae476a872d85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: New Carpaint Green
+    second: {fileID: 2100000, guid: 6dea106cfdcc7684badfc5472706c410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carbon fiber 2024
+    second: {fileID: 2100000, guid: 7b9027b79babe844ba2e6765177e7806, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome
+    second: {fileID: 2100000, guid: 14d232cef85269d4db746ca3187f07e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dark_glass
+    second: {fileID: 2100000, guid: bba61faa2449e174a865f24e0bc1d0f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_material
+    second: {fileID: 2100000, guid: 5975b10cc59059d41844ee843ebc2435, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mother of pearl carpaint
+    second: {fileID: 2100000, guid: 1d4492ff451fcb34baccc1e7286c70fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: purple metallic carpaint
+    second: {fileID: 2100000, guid: 33ed3ffe9e49af947ad82815c6ebbc33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: smooth brass
+    second: {fileID: 2100000, guid: b285a7ae146a61b4dbf40ff5d62705df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: solid black carpaint
+    second: {fileID: 2100000, guid: df433d7de5e3531448f71319e4ebc09b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric01_bump
+    second: {fileID: 2800000, guid: 68020b467393aa44eb220914d9295618, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric01_diffuse
+    second: {fileID: 2800000, guid: 0b405cda1a1f474438d6420a8e2827ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric01_specular
+    second: {fileID: 2800000, guid: 27fa178018fce0a4b9a9293cda8a57fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: carbon fiber 2024_l0_diffuse
+    second: {fileID: 2800000, guid: bab7e0c848ef25b40bea6fc35c89e64c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: carbon fiber 2024_l1_bump
+    second: {fileID: 2800000, guid: ddb1d27521d10ab4d98fcf403d011096, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: carbon fiber 2024_l1_specular
+    second: {fileID: 2800000, guid: 50628959f1f1c7c409d396b2b89ea84a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mother of pearl carpaint_l1_bump
+    second: {fileID: 2800000, guid: ce299b35e9bd28d41ab574b752ef7756, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mother of pearl carpaint_l1_specular
+    second: {fileID: 2800000, guid: dd39d4823668aa946a87fabf1306d799, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: smooth brass_bump
+    second: {fileID: 2800000, guid: 2895a550aac690640aab1d82ce49184a, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
